@@ -2,6 +2,7 @@ package com.hire.bean;
 
 /**
  * Created by luoxq on 2018/4/25 0025.
+ * 返回对象
  */
 public class ResultInfo {
 
