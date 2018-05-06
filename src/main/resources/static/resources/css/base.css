@@ -198,3 +198,9 @@ body .fn-hide,.hidden {
 .fl{float:left}
 .fr{float:right}
 
+.mt-20{
+    margin-top: 20px;
+}
+.fw-500{
+    font-weight: 500;
+}

@@ -35,7 +35,7 @@ require([
     window.AppConfig.RemoteApiUrl = gisRootPath;
     // $.ajax({
     //     type:"post",
-    //     url:gisRootPath+"/common/orm/getUserInfo",
+    //     url:gisRootPath+"/utils/orm/getUserInfo",
     //     success:function(data){
     //         window.$userInfo=data;
     //         $(".user-info-admin>span").html(data.userName);
@@ -69,7 +69,7 @@ require([
     })
     // $.ajax({
     //     type:"post",
-    //     url:gisRootPath+"/common/orm/getUserInfo",
+    //     url:gisRootPath+"/utils/orm/getUserInfo",
     //     success:function(data){
     //         window.$userInfo=data;
     //         $(".user-info-admin>span").html(data.userName);

@@ -85,7 +85,7 @@ var config = {
         log: 'libs/bmap/utils/log',
         dateutils: 'libs/bmap/utils/date_utils',
         cache: 'libs/bmap/utils/cache',
-        map_utils: 'dynamic-monitor/common/mod/map/map',
+        map_utils: 'dynamic-monitor/utils/mod/map/map',
         easyui: 'libs/core/easyui/1.3.6/jquery.easyui.min',
         echarts: 'libs/core/echarts/2.1.8/echarts-all',
         layer: 'libs/core/layer/layer',
